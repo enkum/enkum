@@ -2,11 +2,11 @@
 I am an aspiring data scientist with a strong background in math, statistcs, insurance and finance. With experience in predictive modeling, data processing, and data mining algorithms, I have completed various projects and research with a keen interest in machine learning. 
 
 ---
-- 🔭 I’m currently working on getting my Doctorate degree in Data Science and I working this semester to defend my proposal
-- 🌱 I’m currently learning data visualization designs 
-- 👯 I’m looking to collaborate on data visualization and deep learning
-- 🤔 I’m looking for help with machine learning: supervise & unsupervise learning and deep learning
-- 💬 Ask me about anything relating to machine learning
+- 🔭 I’m currently working on getting my doctorate degree in Data Science at the University of Texas at El Paso.
+- 🌱 I’m currently learning data visualization designs and good practices.
+- 👯 I’m looking to collaborate on data visualization and deep learning.
+- 🤔 I’m looking for help with machine learning: supervise & unsupervise learning and deep learning.
+- 💬 Ask me about anything relating to machine learning.
 - 📫 How to reach me: ebenezer.nkum93@gmail.com/enkum@miners.utep.edu/[linkedin](https://www.linkedin.com/in/ebennkum)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am fun of kindness
