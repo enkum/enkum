@@ -10,5 +10,5 @@ I am an aspiring data scientist with a strong background in math, statistcs, ins
 - 📫 How to reach me: ebenezer.nkum93@gmail.com/enkum@miners.utep.edu/[linkedin](https://www.linkedin.com/in/ebennkum)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am fun of kindness
--->
+
 
