@@ -1,9 +1,6 @@
-### Hi there 👋
+<img width="734" alt="Screenshot 2023-02-04 at 2 00 03 PM" src="https://user-images.githubusercontent.com/63951159/216789640-8d6779a2-eb92-44f8-86ad-091c47672325.png">
 
-<!--
-**enkum/enkum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+---
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
